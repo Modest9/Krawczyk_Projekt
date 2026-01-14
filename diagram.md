@@ -1,5 +1,5 @@
 ```mermaid
-
+d
 flowchart TD
     START([START]) --> A[Użytkownik otwiera aplikację webową]
     A --> B[Dodaje nadmiarowe rośliny<br/>+ opis i zdjęcia]
