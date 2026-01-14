@@ -1,4 +1,4 @@
-# Inspiracje
+## Inspiracje
 
 ## 1. Inspiracje (słowa, skojarzenia, pomysły)
 - prostota
